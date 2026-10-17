@@ -159,7 +159,6 @@ INSERT INTO Register (StudentID, CourseID, Grade) VALUES
 ('STU0000007', 'FIN301', 86.50),
 ('STU0000008', 'MATH101', 79.00);
 
--- 7. Teach (Phân công giảng dạy tương ứng)
 INSERT INTO Teach (CourseID, LecturerID) VALUES
 ('MATH101', 'LEC01'),
 ('MATH102', 'LEC04'),
